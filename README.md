@@ -1,4 +1,4 @@
-# ConUHacks19
+# ConUHacks19 StreetSmart Traffic Control
 
-## Traffic light shit
-By the bois
+  ##Winner of TD Insurance: Green Challenge
+  Team of 4 
